@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.place{
+  font-weight: normal;
+  padding:0 25px;
+}
+
+.banner{
+    text-indent: 80px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.corpse{
+    width:300px;
+    margin-left: 150px;
+}
+
+.desk{
+    margin-left: 200px;
+    width: 600px;
+}
+
+.corpse1{
+    width:300px;
+    margin-left: 150px;
+}
+
+.desk-1{
+    margin-left: 220px;
+    width: 600px;
+}
