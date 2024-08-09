@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:wght@100..900&family=Lobster&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Pacifico&family=Poppins:wght@400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+ ::placeholder{
+    font-family:"Inter", sans-serif;
+} 
+
+.schedule{
+    padding-left: 30px;
+}
+
+
+    .main{
+    min-width: 40vw;
+    height: 800px;
+} 
+.main Form{
+    width: 100%;
+}  
+
+.long{
+    padding: 40px;
+    background-color: white;
+}
+
+.yung{
+    padding: 40px;
+    background-color: white;
+}
+
+.sub-main{
+    min-width: 40vw;
+    height: 380px;
+} 
+.sub-main Form{
+    width: 100%;
+} 
+
+/* .clip{
+    width: 20px;
+    height: 180px;
+    margin: 40px 0;
+    background-color: red;
+}
+
+Button{
+    display: block;
+    width: 80vw;
+    margin: 80px 25px;
+} */
+
+.order{
+    margin: 100px 0;
+}
+
+.pot{
+    height: 120px;
+    align-items: center;
+    width: 100vw;
+}
+
+
+

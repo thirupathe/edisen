@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:wght@100..900&family=Lobster&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Pacifico&family=Poppins:wght@400;500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family:"Inter", sans-serif;
+}
+
+.sort-controls{
+    width: 500px;
+}
+
+.about-img{
+    width:90px;
+    height: 90px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.category{
+    width: inherit;
+}
+
+.light{
+    margin-right: -20px;
+}
+
+.dark{
+    margin-left: -50px;
+    
+}
+
+.subcategory-title{
+    width: 100%;
+}
+
+.product-list{
+    width: 100vw;
+}
+  
+.main{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    height: fit-content;
+    background-color: white;
+    padding: 32px;
+}
+
+
+

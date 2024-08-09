@@ -21,10 +21,13 @@ const Navcomp = () => {
     <Nav className="me-auto">
         <Nav.Link href="#">Home</Nav.Link>
         <Nav.Link href="#">Product</Nav.Link>
-        <Nav.Link href="#">Blog</Nav.Link>
+        <Nav.Link href="/About">About</Nav.Link>
         <Nav.Link href="#">Learn</Nav.Link>
-        <Nav.Link href="#">Online Support</Nav.Link> 
+        <Nav.Link href="/Events">Event</Nav.Link>
+        <Nav.Link href="/Signin">Signin</Nav.Link>
+        {/* <button className="btn  me-0">Sign In</button> */}
     </Nav>
+        
     </Navbar.Collapse>
    
  </Container>
